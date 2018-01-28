@@ -1,14 +1,14 @@
 # Site
 title:              moonBlog
 bio:                'a Jekyll test site'
-description:        "This is a test site using Taylan Tatli's Moon theme"
+description:        "This is a test site using [Taylan Tatli's Moon theme](https://github.com/TaylanTatli/Moon)"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/heliocentric.jpg'
 tiled_bg:           true   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://pulamusic.github.io/Moon/
+url:                https://pulamusic.github.io/Moon
 
 # Jekyll
 permalink:          /:title/
@@ -24,6 +24,8 @@ mathjax:            true
 sass:
   sass_dir:         _sass
   style:            compressed
+scholar:
+	style: chicago-fullnote-bibliography
 
 # Comments
 disqus_shortname:   pulamusic
@@ -38,11 +40,11 @@ disqus_shortname:   pulamusic
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
-facebook:           username
-github-url:         username
+twitter:            pulamusic
+facebook:           jim.carroll.10420
+github-url:         pulamusic
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:          james-carroll-36001511a
 #xing:              username
 #instagram:          username
 #lastfm:            username
