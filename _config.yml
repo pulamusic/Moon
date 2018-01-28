@@ -24,8 +24,6 @@ mathjax:            true
 sass:
   sass_dir:         _sass
   style:            compressed
-scholar:
-	style: chicago-fullnote-bibliography
 
 # Comments
 disqus_shortname:   pulamusic
